@@ -36,3 +36,4 @@ build/
 # DuckDB temp files
 *.duckdb
 *.duckdb.wal
+CLAUDE.md
