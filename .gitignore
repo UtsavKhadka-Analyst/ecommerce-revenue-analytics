@@ -1,0 +1,38 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Raw Data (too large for GitHub — never commit raw data)
+data/raw/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# IDE
+.vscode/
+.cursor/
+*.code-workspace
+
+# Logs
+*.log
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# DuckDB temp files
+*.duckdb
+*.duckdb.wal
