@@ -37,3 +37,4 @@ build/
 *.duckdb
 *.duckdb.wal
 CLAUDE.md
+data/cleaned/
